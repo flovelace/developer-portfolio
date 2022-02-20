@@ -2,12 +2,16 @@
   "name": "developer-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://flovelace.github.io/developer-portfolio/"
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
-    "start": "next start"
+    "start": "next start",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "next": "10.2.3",
     "ngrok": "^4.0.1",
     "react": "17.0.2",
