@@ -2,7 +2,7 @@
   "name": "developer-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://flovelace.github.io/developer-portfolio/"
+  "homepage": "https://flovelace.github.io/developer-portfolio/",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
