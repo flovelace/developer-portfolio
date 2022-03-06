@@ -18,13 +18,22 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'Taskmaster Pro',
+    description: "A kanban board that allows users to create tasks with a date picker modal. Users can drag and drop tasks in the columns for organisation.",
+    image: '/images/taskmaster-pro.png',
+    tags: ['JavaScript', 'jQuery', 'HTML5', 'CSS3'],
+    source: 'https://github.com/flovelace/taskmaster-pro/',
+    visit: 'https://flovelace.github.io/taskmaster-pro/',
+    id: 2,
+  },
+  {
     title: 'Note Taker',
     description: "A simple note taking app for hard workers on the go! This uses API to connect the front and back to save the user's notes.",
     image: '/images/note-taker.png',
     tags: ['JavaScript', 'REST API'],
     source: 'https://github.com/flovelace/note-taker/',
     visit: 'https://peaceful-castle-75538.herokuapp.com/',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Weather Dashboard',
@@ -33,7 +42,7 @@ export const projects = [
     tags: ['JavaScript', 'Bootstrap', 'jQuery', 'REST API'],
     source: 'https://github.com/flovelace/weather-dashboard',
     visit: 'https://flovelace.github.io/weather-dashboard/',
-    id: 3,
+    id: 4,
   },
 ];
 
