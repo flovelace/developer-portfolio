@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Photography Portfolio',
     description: "A simple and clean portfolio for photographers built using React. It features conditionally rendered components such as modals and a contact form.",
-    image: '/images/weather-dashboard.png',
+    image: '/images/photo-portfolio.png',
     tags: ['JavaScript', 'React', 'CSS'],
     source: 'https://github.com/flovelace/photo-port',
     visit: 'photo-portfolio-fairfax.herokuapp.com/',
