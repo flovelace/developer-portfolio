@@ -1,7 +1,7 @@
 # Developer Portfolio
 This is a developer portfolio built using React and NextJS. It utilises a simple and clean layout, and includes pertinent information, such as tech stack and projects.
 
-## Click [here](https://fairfax-portfolio.herokuapp.com/) to visit the website!
+## Click [here](https://developer-portfolio-ruby-three.vercel.app/) to visit the website!
 
 This is the portfolio layout:
 
