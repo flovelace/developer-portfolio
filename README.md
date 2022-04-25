@@ -3,10 +3,6 @@ This is a developer portfolio built using React and NextJS. It utilises a simple
 
 ## Click [here](https://developer-portfolio-ruby-three.vercel.app/) to visit the website!
 
-This is the portfolio layout:
-
-![Portfolio Layout](https://user-images.githubusercontent.com/86391225/157161361-49d4e692-4fd1-471c-8d26-a8f01a20552f.png)
-
 ## GitHub Repo
 https://github.com/flovelace/developer-portfolio/
 
