@@ -4,7 +4,7 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: 40, text: 'Open Source Projects' }
+  { number: 50, text: 'Open Source Projects' }
 
 ];
 
