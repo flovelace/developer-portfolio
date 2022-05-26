@@ -52,5 +52,5 @@ export const TimeLineData = [
   { year: 2016, text: 'Immigrated to Toronto, ON, Canada.', },
   { year: 2019, text: 'Had an amazing time working in the FinTech industry with Naborly.', },
   { year: 2021, text: 'Began studying Full Stack Web Development at University of Toronto: School of Continuing Studies.', },
-  { year: 2022, text: 'Completed Full Stack Web Development. Programming is life!', },
+  { year: 2022, text: 'Completed Full Stack Web Development. Began working as a Full Stack Software Engineer!', },
 ];

@@ -1,5 +1,5 @@
-import { DiBootstrap, DiCss3, DiGit, DiHtml5, DiJavascript1, DiJira, DiMongodb, DiMysql, DiPython } from "react-icons/di";
-import { SiNodeDotJs, SiGraphql } from "react-icons/si";
+import { DiBootstrap, DiCss3, DiGit, DiHtml5, DiJavascript1, DiJira, DiMongodb, DiMysql, DiPython, } from "react-icons/di";
+import { SiNodeDotJs, SiGraphql, SiTypescript } from "react-icons/si";
 import { RiReactjsFill } from "react-icons/ri";
 
 export const Skills = [
@@ -8,6 +8,13 @@ export const Skills = [
     Component: DiJavascript1,
     title: "JavaScript",
     Description: () => <>I program full stack web applications using JavaScript.</>,
+  },
+  {
+    slug: "TypeScript",
+    Component: SiTypescript,
+    title: "TypeScript",
+    Description: () => <>I also like to use TypeScript to program web stack web applications.</>
+
   },
   {
     slug: "react",
